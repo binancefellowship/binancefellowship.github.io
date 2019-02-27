@@ -1,0 +1,42 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-b {
+	background-color: rgba(32,32,32,1.0);
+}
+
+#home {
+	background-color: rgba(46, 46, 46, 1.0);
+}
+#footer {
+	background-color: rgba(46, 46, 46, 1.0);
+}
+
+.lead {
+	margin-top: 30px;
+	color: rgba(191, 191, 191, 1.0);
+}
+#what {
+	background-color: rgba(227, 182, 64, 1.0);;
+}
+#apply {
+	background-color: rgba(46, 46, 46, 1.0);
+}
+#contact {
+	background-color: rgba(0, 0, 0, 1.0);
+}
+
