@@ -16,7 +16,8 @@ body {
 }
 
 .navbar-b {
-	background-color: rgba(32,32,32,1.0);
+	/*background-color: rgba(32,32,32,1.0);*/
+	background-color: rgba(0, 0, 0, 1.0);
 }
 
 #home {
@@ -38,5 +39,21 @@ body {
 }
 #contact {
 	background-color: rgba(0, 0, 0, 1.0);
+}
+
+.yellow-gradient {
+	background: #f0b90b; /* Old browsers */
+	background: -moz-linear-gradient(top, #f0b90b 0%, #fad738 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #f0b90b 0%,#fad738 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #f0b90b 0%,#fad738 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0b90b', endColorstr='#fad738',GradientType=0 ); /* IE6-9 */
+}
+
+.black-gradient {
+	background: #222222; /* Old browsers */
+	background: -moz-linear-gradient(top, #222222 0%, #333333 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, #222222 0%,#333333 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, #222222 0%,#333333 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222222', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
 }
 
